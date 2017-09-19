@@ -1,1 +1,2 @@
 This is a beautiful quality file.
+And now I'm changing it on Github.
